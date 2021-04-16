@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160895715265",
+    "project_id": "ieltsessaywriting",
+    "storage_bucket": "ieltsessaywriting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160895715265:android:7f9491474283b749de5140",
+        "android_client_info": {
+          "package_name": "com.manthanvanani.ieltsessaywriting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160895715265-r66r356ss64ktlqb547sqcarvotd7109.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi9wwyIbPi8azMy8jaQEWn60L8mK6gns0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160895715265-r66r356ss64ktlqb547sqcarvotd7109.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
